@@ -1,5 +1,5 @@
 ## Hello 👋
-<img align="right"  src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fai&psig=AOvVaw3ZvMvmfTvqiErSDn0DvshF&ust=1675803228317000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiKg6PWgf0CFQAAAAAdAAAAABAD' width='300'>
+<img align="right"  src='https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2016/12/ia-770__w770.jpg' width='300'>
 
 #### Machine Learning Engineer,Python Developper ,Next JS - Django
 
