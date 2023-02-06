@@ -1,5 +1,5 @@
 ## Hello 👋
-<img align="right"  src='https://github.com/christophehounwanu/ML-For-Beginners/blob/main/1-Introduction/1-intro-to-ML/images/ai-ml-ds.png' width='300'>
+<img align="right"  src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fai&psig=AOvVaw3ZvMvmfTvqiErSDn0DvshF&ust=1675803228317000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiKg6PWgf0CFQAAAAAdAAAAABAD' width='300'>
 
 #### Machine Learning Engineer,Python Developper ,Next JS - Django
 
