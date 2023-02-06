@@ -3,19 +3,22 @@
 
 #### Machine Learning Engineer,Python Developper ,Next JS - Django
 
-I have been passionate about computer Science in general, for many years. The fact
+I've been passionate about computer Science in general, for many years. The fact
 to create applications, to configure systems, to control
 remote machines are are all things that pushed me into this
 domain.
 
 
 
-I am amazed by Artificial Intelligence, the creation of neural networks with Deep Learning to solve difficult problems that escape classical programming.
+I'm amazed by Artificial Intelligence, the creation of neural networks with Deep Learning to solve difficult problems that escape classical programming.
 My future career and my professional goal is to become a Machine Learning Engineer
 
 ### Social links
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/princeGedeon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prince-g%C3%A9d%C3%A9on-guedje-488819228/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ged.prince/?hl=fr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/GedeonGuedje)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/christophehounwanu)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/christophe-hounwanou/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/edochristophe-hounwanou/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chris_hounwanou)
 
 
 ### Top languages
