@@ -1,5 +1,5 @@
 ## Hello 👋
-<img align="right"  src='https://img.freepik.com/photos-gratuite/contexte-energie-nucleaire-ia-innovation-future-technologie-rupture_53876-129783.jpg?w=996&t=st=1675717778~exp=1675718378~hmac=ea9c1726167e0f05060b15b1d6d11f6c84b48e17686885948d4b7d4dee9e923d' width='300'>
+<img align="right"  src='https://img.freepik.com/photos-gratuite/contexte-energie-nucleaire-ia-innovation-future-technologie-rupture_53876-129783.jpg?w=996&t=st=1675717778~exp=1675718378~hmac=ea9c1726167e0f05060b15b1d6d11f6c84b48e17686885948d4b7d4dee9e923d' width='500'>
 
 #### Machine Learning Engineer,Python Developper ,Next JS - Django
 
