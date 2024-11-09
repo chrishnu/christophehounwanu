@@ -67,13 +67,13 @@ Hi there! 👋 I'm an AI/ML Engineer with a deep-seated passion for **Computer S
 
 
 <!-- GITHUB ACTIVITY GRAPH -->
-<!-- ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Cyebukayire&theme=react-dark) -->
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=Cyebukayire&show_icons=true&theme=react-dark)
 
-<!--   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=:)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&backgroundColor=tokyonight"/> -->
-  
+<!-- GitHub Snake Animation -->
+![GitHub Snake Animation](https://github.com/Cyebukayire/Cyebukayire/blob/output/github-contribution-grid-snake.svg)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=princeGedeon) 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<!-- Header Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&theme=tokyonight"/>
+
 
 
