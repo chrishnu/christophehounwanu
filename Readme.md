@@ -1,22 +1,26 @@
 ## Hello i'm Christophe HOUNWANOU 👋
 <img align="right"  src='https://img.freepik.com/photos-gratuite/contexte-energie-nucleaire-ia-innovation-future-technologie-rupture_53876-129783.jpg?w=996&t=st=1675717778~exp=1675718378~hmac=ea9c1726167e0f05060b15b1d6d11f6c84b48e17686885948d4b7d4dee9e923d' width='500'>
 
-#### ML engineer & Python DevOps
+#### 👩‍💻 ML/AI Engineer & Python DevOps
 
-I've been passionate about computer Science in general, for many years. The fact
-to create applications, to configure systems, to control
-remote machines are are all things that pushed me into this
-domain.
+Hi there! 👋 I'm an AI/ML Engineer with a deep-seated passion for **Computer Science** and **Innovation**. Over the years, I’ve loved exploring this field, from building applications to configuring systems and even controlling remote machines — all of which inspired me to dive deeper into tech! 
 
+✨ I’m especially fascinated by **Data Analysis**, **Artificial Intelligence**, and the power of **Deep Learning** to tackle complex problems that traditional programming can’t solve. Building neural networks that mimic aspects of human intelligence is something I’m deeply committed to.
 
+🎯 **Research Interests**:
+- 🧠 AI for Education
+- 💵 AI for Finance
+- 📊 Data Science
+- 🌱 Sustainable Tech with AI
+- 🏥 AI in Healthcare
 
-I'm amazed by Data Analyst, Artificial Intelligence, the creation of neural networks with Deep Learning to solve difficult problems that escape classical programming.
+🌟 Let’s connect and explore the endless possibilities in tech! 
 
 ### Social links
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/christophehounwanu)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/christophe-hounwanou/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/edochristophe-hounwanou/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/christophe-hounwanou/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chris_hounwanou)
 
 
